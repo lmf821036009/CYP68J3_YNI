@@ -1,0 +1,13 @@
+﻿target,atom_type,atom_name,atom_index,distance_to_target_A,identification_method
+C7,hydrogen,H8,5571,1.08485128295445,first-frame distance inference
+C7,hydrogen,H9,5572,1.086877621992444,first-frame distance inference
+C7,heavy_neighbor,C8,5567,1.5346971973352586,first-frame distance inference
+C7,heavy_neighbor,C5,5573,1.5283335892205239,first-frame distance inference
+C12,heavy_neighbor,C17,5551,1.5286009416973885,first-frame distance inference
+C12,heavy_neighbor,C19,5553,1.5614390642300802,first-frame distance inference
+C12,heavy_neighbor,C11,5557,1.5397770759477196,first-frame distance inference
+C12,heavy_neighbor,C13,5596,1.5358037391990134,first-frame distance inference
+C15,hydrogen,H19,5560,1.090462556134864,first-frame distance inference
+C15,hydrogen,H20,5561,1.0945778556296681,first-frame distance inference
+C15,heavy_neighbor,C11,5557,1.5349945379800836,first-frame distance inference
+C15,heavy_neighbor,C16,5562,1.5435710712143975,first-frame distance inference
