@@ -1,0 +1,13 @@
+﻿target,atom_type,atom_name,atom_index,distance_to_target_A,identification_method
+C7,hydrogen,H10,5378,1.094753792860699,TPR topology bonds
+C7,hydrogen,H09,5379,1.09922837638673,TPR topology bonds
+C7,heavy_neighbor,C4,5373,1.4886570258300018,TPR topology bonds
+C7,heavy_neighbor,C8,5380,1.5356470693272084,TPR topology bonds
+C12,heavy_neighbor,C13,5391,1.5307829372836645,TPR topology bonds
+C12,heavy_neighbor,C22,5395,1.553125158657806,TPR topology bonds
+C12,heavy_neighbor,C11,5399,1.543240255024533,TPR topology bonds
+C12,heavy_neighbor,C17,5407,1.4838867610067117,TPR topology bonds
+C15,hydrogen,H20,5402,1.1039124432604281,TPR topology bonds
+C15,hydrogen,H19,5403,1.0945776317594782,TPR topology bonds
+C15,heavy_neighbor,C11,5399,1.5231876208537685,TPR topology bonds
+C15,heavy_neighbor,C16,5404,1.5431725597845163,TPR topology bonds
